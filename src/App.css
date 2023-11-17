@@ -19,7 +19,7 @@
 }
 
 .board-row button{
-  border: 1px solid black;
+  border: 1px solid white;
 }
 
 @keyframes logo-spin {
@@ -43,4 +43,12 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.square{
+  width: 50px;
+  height: 50px;
+  background-color: rgb(64, 173, 216);
+  color: white;
+  border: none;
 }
